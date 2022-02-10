@@ -1,0 +1,43 @@
+h1 {
+    margin-bottom: 10px;
+    color: #2f4f4f;
+}
+
+.nav {
+    margin-top: 10px;
+    list-style: none;
+    padding-left: 0;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.nav a {
+    color: white;
+    background-color: #13a4a4;
+    padding: 5px 15px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+.nav .featured {
+    background-color: orange;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.title {
+    font: 32px Helvetica, Arial, sans-serif;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.padded {
+    font-size: 16px;
+    padding: 1em;
+}
